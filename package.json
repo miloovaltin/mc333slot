@@ -1,0 +1,16 @@
+{
+"name": "mc333slot",
+"theme": "mc333 slot",
+"version": "4.10.4",
+"description": "mc333 slot ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
+"keywords": [
+"mc333 slot",
+"mc333 slot เครดิตฟรี",
+"mc333 slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mc333slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
